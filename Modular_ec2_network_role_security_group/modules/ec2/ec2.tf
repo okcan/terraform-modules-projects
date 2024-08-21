@@ -25,7 +25,7 @@ variable "associate_public_ip_address" {
 }
 
 resource "aws_instance" "web" {
-  ami                         = "ami-0f29c8402f8cce65c" # Kendi AMI ID'nizi kullanın
+  ami                         = "ami-0f29c8402f8cce65c"
   instance_type               = "t2.micro"
   subnet_id                   = var.subnet_id
   security_groups             = [var.security_group_id]
