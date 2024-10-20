@@ -30,8 +30,8 @@ Before you begin, ensure that you have:
 
 1. **Clone the repository**:
    ```bash
-   git clone https://github.com/okcan/terraform-3-tier-architecture.git
-   cd terraform-3-tier-architecture
+   git clone https://github.com/okcan/terraform-modules-projects.git
+   cd terraform-modules-projects
    ```
 
 2. **Initialize the Terraform project**:
