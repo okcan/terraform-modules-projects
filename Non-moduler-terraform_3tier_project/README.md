@@ -30,7 +30,7 @@ Before you begin, ensure that you have:
 
 1. **Clone the repository**:
    ```bash
-   git clone https://github.com/yourusername/terraform-3-tier-architecture.git
+   git clone https://github.com/okcan/terraform-3-tier-architecture.git
    cd terraform-3-tier-architecture
    ```
 
