@@ -1,0 +1,6 @@
+project_id    = "polygonlabs-oys-dev"
+region        = "europe-west2"
+authorized_ip = "104.30.161.89/32"
+services_range_name  = "services-range"
+services_ip_range    = "10.30.0.0/20"
+pods_range_name      = "pods-range"
